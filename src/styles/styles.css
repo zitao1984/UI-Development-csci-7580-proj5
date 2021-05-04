@@ -1,0 +1,36 @@
+h1{
+    font-size: 70px;
+    color: #d05082;
+    font-weight: bold;
+}
+
+
+.option{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.filter{
+    padding: 4em 0 4em 0;
+}
+
+.thread{
+    padding: 0 2em 4em 2em;
+}
+
+.bottom-container{
+    padding:0 2em 4em 2em;
+}
+
+.thread-p{
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show */
+    -webkit-box-orient: vertical;
+}
+
+.message{
+    white-space: pre-wrap;
+}
