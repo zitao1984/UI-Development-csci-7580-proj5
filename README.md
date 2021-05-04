@@ -6,7 +6,8 @@ I build and test a prototype discussion board application (thinkPiazza) that sav
 
 ## Online Demo
 Web App link: [here](https://pages.github.ccs.neu.edu/cs7580sp21-seattle/zitao_shen_assignment5/)
-
+###LogIn
+- Using username:zitao password:1234
 
 
 ## How to run?
